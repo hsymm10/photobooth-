@@ -1,0 +1,6 @@
+<svg width="220" height="88" viewBox="0 0 220 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="88" rx="18" fill="#F7F1F5"/>
+  <circle cx="39" cy="44" r="20" fill="#FF6BB1" stroke="#1D1D1D" stroke-width="3"/>
+  <path d="M31 32H40C48.8 32 55 38.2 55 46C55 53.8 48.8 60 40 60H31V32ZM36 36V56H39.5C45 56 49 52 49 46C49 40 45 36 39.5 36H36Z" fill="#1D1D1D"/>
+  <text x="72" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#1D1D1D">PHOTOBOOTH</text>
+</svg>
